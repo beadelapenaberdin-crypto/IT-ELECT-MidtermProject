@@ -17,7 +17,7 @@
     <div class="cv-section">
         <h2>Personal Information</h2>
         <p><strong>Name:</strong> Bea Berdin</p>
-        <p><strong>Email:</strong> beadelapenaberdin@example.com</p>
+        <p><strong>Email:</strong> beadelapenaberdin@email.com</p>
         <p><strong>Phone:</strong> 09893747572</p>
         <p><strong>Location:</strong> Manduae City, Cebu</p>
     </div>
