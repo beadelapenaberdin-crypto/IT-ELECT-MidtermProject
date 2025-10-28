@@ -19,13 +19,13 @@
         <p><strong>Name:</strong> Bea Berdin</p>
         <p><strong>Email:</strong> beadelapenaberdin@gmail.com</p>
         <p><strong>Phone:</strong> 09893747572</p>
-        <p><strong>Location:</strong> Manduae City, Cebu</p>
+        <p><strong>Location:</strong> Mandaue City, Cebu</p>
     </div>
     
     <div class="cv-section">
         <h2>Education</h2>
         <ul>
-            <li><strong>Bachelor of Science in Information Technology</strong> - University of Cebu, 2023-2027</li>
+            <li><strong>Bachelor of Science in Information Technology</strong> - University of Cebu Lapu-apu & Mandaue, 2023-2027</li>
             <li><strong>High School Diploma</strong> - Himbangan National High School, 2017-2020</li>
         </ul>
     </div>
